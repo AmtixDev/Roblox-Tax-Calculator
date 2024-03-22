@@ -1,6 +1,6 @@
 {
   "name": "roblox-tax-calculator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple npm package to calculate the tax amount for Roblox transactions. Roblox takes a 30% tax on transactions made through its platform. This package helps you quickly calculate the net amount after deducting the tax.",
   "main": "index.js",
   "scripts": {
